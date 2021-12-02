@@ -1,4 +1,4 @@
-# Machine_learning_pill_identifyer
+# Machine_learning_pill_identifier
 Making a smart phone able to identify pills through machine learning and without the need to be connected to the Internet. This is not an app nor is it a web page. It is a machine learning model used on a smart phone that does not have to be connected to the internet.
 
 My mother was my inspiration behind my PhD dissertation topic when she said (15 years ago), "My phone is so important to me even though I don't know how to use it". That resulted in my dissertation and research of older adults' uses of technology.
