@@ -11,7 +11,7 @@ Also, an online Coursera course taught by Shawn Hymel entitled Computer Vision w
 
 My mom takes over 20 pills a day. Most have to do with her having strokes, diabetes, cancer and other health-related issues. She told me that after she organizes the pills into groups to take each day, she can't identify most of the pills. I had my light bulb idea moment!
 
-So this respository contains the files I'm using to build a smart phone machine learning pill identifyer to process and work on the edge.
+So this respository contains the files I'm using to build a smart phone machine learning pill identifyer to process and work on the edge. I've written up the steps for this project and published them here: https://www.hackster.io/sara-kubik/edge-impulse-pill-identifier-7c1219
 
 Sara Kubik
 sarakubikphd@gmail.com
